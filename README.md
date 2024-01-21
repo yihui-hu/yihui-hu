@@ -34,7 +34,7 @@
   <samp>
     In my free time, I continue to explore <br /> 
     <a href="https://www.yihuihu.com/works/misc" target="_blank">type, print, design</a> 
-    and <a href="https://www.yihuihu.com/works/zinedef" target="_blank">zine-making</a>.
+    and <a href="https://www.yihuihu.com/works/ZINEDEF" target="_blank">zine-making</a>.
   </samp>
 </p>
 
