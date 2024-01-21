@@ -48,6 +48,6 @@
   
 <p align="center">
   <sup>
-    find out more about this readme <a href="https://github.com/yihui-hu/yihui-hu/guide.md" target="_blank">here</a>
+    find out more about this readme <a href="https://github.com/yihui-hu/yihui-hu/blob/main/guide.md" target="_blank">here</a>
   </sup>
 </p>
