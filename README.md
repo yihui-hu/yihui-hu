@@ -4,13 +4,12 @@
   </samp>
 </p>
 
-<br />
+<br/>
 <p align="center">
   <samp>
-    <sup>sup</sup> (^-^)/
+    (\^_^)\ ✎┏━┓
   </samp>
 <p align="center">
-<br />
 
 <p align="center">
   <samp>
@@ -21,15 +20,8 @@
     in mind.
   </samp>
 </p>
+<br/>
 
-<br/>
-<p align="center">
-  <samp>
-    (\^_^)\ ✎┏━┓
-  </samp>
-<p align="center">
-<br/>
-  
 <p align="center">
   <samp>
     In my free time, I continue to explore <br /> 
@@ -38,13 +30,13 @@
   </samp>
 </p>
 
-<br />
+<br/>
 <p align="center">
   <samp>
     [(◡_◡)] <sup>ZZZzz zz z...</sup>
   </samp>
 <p align="center">
-<br />
+<br/>
   
 <p align="center">
   <sup>
