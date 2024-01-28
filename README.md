@@ -36,10 +36,9 @@
     [(◡_◡)] <sup>ZZZzz zz z...</sup>
   </samp>
 <p align="center">
-<br/>
   
 <p align="center">
-  <sup>
+  <sub>
     find out more about this readme <a href="https://github.com/yihui-hu/yihui-hu/blob/main/guide.md" target="_blank">here</a>
-  </sup>
+  </sub>
 </p>
