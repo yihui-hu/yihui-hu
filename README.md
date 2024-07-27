@@ -14,7 +14,7 @@
 <p align="center">
   <samp>
     I'm interested in creating <br /> 
-    <a href="https://www.yihuihu.com/works/henesys" target="_blank">shared experiences</a> 
+    <a href="https://www.yihui.work/works/henesys" target="_blank">shared experiences</a> 
     on the web and building with <br /> 
     <a href="https://arena-ios-app.vercel.app" target="_blank">polish and performance</a> 
     in mind.
@@ -25,8 +25,8 @@
 <p align="center">
   <samp>
     In my free time, I continue to explore <br /> 
-    <a href="https://www.yihuihu.com/works/misc" target="_blank">type, print, design</a> 
-    and <a href="https://www.yihuihu.com/works/ZINEDEF" target="_blank">zine-making</a>.
+    <a href="https://www.yihui.work/works/misc" target="_blank">type, print, design</a> 
+    and <a href="https://www.yihui.work/works/ZINEDEF" target="_blank">zine-making</a>.
   </samp>
 </p>
 
