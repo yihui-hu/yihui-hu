@@ -14,7 +14,7 @@
 <p align="center">
   <samp>
     I'm interested in early stage software and <br /> building with
-    <a href="https://arena-ios-app.vercel.app" target="_blank">polish and performance</a> 
+    <a href="https://yihui.work/works/arena" target="_blank">polish and performance</a> 
     in mind.
   </samp>
 </p>
